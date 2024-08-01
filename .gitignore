@@ -12,6 +12,8 @@ dist
 dist-ssr
 *.local
 *.env 
+deploy.txt
+weather-app.txt
 
 deploy
 # Editor directories and files
